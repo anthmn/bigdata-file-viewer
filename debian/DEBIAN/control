@@ -1,0 +1,9 @@
+Package: {{{name}}}
+Version: {{{version}}}
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: openjdk-11-jre, openjfx
+Maintainer: Anthony Mancini <anthony.m.mancini@protonmail.com>
+Description: Debian package for bigdata-file-viewer.
+Homepage: https://github.com/Eugene-Mark/bigdata-file-viewer

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bigdata File Viewer
+Comment=A cross-platform desktop application to view common bigdata binary format like Parquet, ORC, Avro, etc. Support local file system, HDFS, AWS S3, etc.
+Keywords=parquet;orc;avro;hdfs;s3
+Exec=/usr/share/bigdata-file-viewer/bigdata-file-viewer %u
+Icon=/usr/share/bigdata-file-viewer/icons8-owl-64.png
+Terminal=false
+Type=Application
+Categories=Utility;
